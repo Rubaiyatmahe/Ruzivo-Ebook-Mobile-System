@@ -10,3 +10,4 @@ Ruzivo - An E-Book Mobile System | Andoird &amp; iOS | 2 In 1
 ![4](https://user-images.githubusercontent.com/80895946/210524178-b33f9c4d-c9fc-4d24-b93b-32634c33d8a7.png)
 ![5](https://user-images.githubusercontent.com/80895946/210524187-8e2c54e7-f688-4e99-8464-0e8e62ce9f4b.png)
 ![6](https://user-images.githubusercontent.com/80895946/210524522-396b0649-c8d5-402c-9bd7-96c95a118b9b.png)
+![Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Minimal Clay UI Mockup with Gradient Background for Mobile App with Call to Action](https://user-images.githubusercontent.com/80895946/210573069-32181177-8421-4ec2-a0e7-96d58492098b.png)
