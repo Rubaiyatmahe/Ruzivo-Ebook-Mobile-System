@@ -1,7 +1,7 @@
 # Ruzivo-Ebook-Mobile-System
 Ruzivo - An E-Book Mobile System | Andoird &amp; iOS | 2 In 1
 
-![banner](https://user-images.githubusercontent.com/80895946/210524579-fe02e817-7a53-4531-951f-088affc9d3ec.png)
+![ban](https://user-images.githubusercontent.com/80895946/211305507-cedf0947-71ab-4759-9193-3cb02203b25f.png)
 
 
 ![1](https://user-images.githubusercontent.com/80895946/210524141-2148f6e1-137f-429b-b38f-f8ee05dbd0ae.png)
